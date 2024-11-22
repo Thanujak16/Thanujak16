@@ -56,9 +56,3 @@ Hi all
 
 
 
-## 🏷️ Holopin Badges
-
-<a href="https://holopin.io/@Thanujak16"><img src="https://holopin.me/Thanujak16" alt="Thanujak16;s Holopin board"></a>
-
-
-
