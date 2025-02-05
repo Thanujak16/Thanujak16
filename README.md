@@ -54,7 +54,7 @@ Hi all
 <a href="#"><img width="150" height="70" img alt="Google Sheets" src="https://github.com/user-attachments/assets/0409423b-f861-47e3-aaab-15de8b43b76c"></a>
 
 ### Visualizations
-<a href="#"><img width="150" height="70" img alt="Power BI" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"></a>
+<a href="#"><img width="80" height="80" img alt="Power BI" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"></a>
 
 
 ### Frameworks and Libraries
