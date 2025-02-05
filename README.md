@@ -31,7 +31,7 @@ Hi all
 
 
 ## 📊 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thanujak16)](https://github.com/Thanujak16/github-profile-trophy)
+<img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Thanujak16"><br>
 
 ### My Contribution Graph
 [![Thanuja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thanujak16&theme=tokyo-night&area=true)](https://github.com/Thanujak16/github-readme-activity-graph)
