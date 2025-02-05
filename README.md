@@ -58,6 +58,10 @@ Hi all
 <a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
 <a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/color/1x/pandas.png"></a>
 
+### Profile Summary
+![image](https://github.com/user-attachments/assets/b2152fe5-a6bb-4158-a2c6-3396251b39c8)
+
+
 
 ## 🔗 You can connect with me on 
 <a href="https://www.linkedin.com/in/thanuja-kedila/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
