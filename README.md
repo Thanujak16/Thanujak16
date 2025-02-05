@@ -56,7 +56,7 @@ Hi all
 ### Visualizations
 <a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"></a>
 <a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"></a>
-<a href="#"><img width="130" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/a2cdbf73-ee90-4267-bd9e-cf638a6e6a02"></a>
+<a href="#"><img width="150" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/a2cdbf73-ee90-4267-bd9e-cf638a6e6a02"></a>
 
 
 ### Frameworks and Libraries
