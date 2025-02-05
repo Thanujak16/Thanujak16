@@ -48,7 +48,7 @@ Hi all
 
 ### Databases
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg).
-<a href="#"><img height="50" img alt="Smartsheet" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"></a>
+<a href="#"><img width="70" height="70" img alt="Smartsheet" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"></a>
 
 
 
