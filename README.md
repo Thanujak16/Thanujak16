@@ -26,6 +26,7 @@ Hi all
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thanujak16&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
 <a href="https://github.com/Thanujak16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanujak16&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Thanuja's github stats" /></a> | 
+<br>
 <img width=600 src="https://stats.dooboo.io/api/github-stats-advanced?login=Thanujak16" alt="hyochan github-stats"><br>
 
 
