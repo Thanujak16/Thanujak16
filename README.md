@@ -4,7 +4,7 @@
 
 Hi all
 
-🎓  I am a Passionate MBA graduate with 1 year of analytics experience, specializing in Smartsheet, Excel, and Python.
+🎓  I am a Passionate MBA graduate with 1 year 2 month of analytics experience, specializing in Smartsheet,SQL , Excel, and Python.
 
 👨‍💻 Proven ability to create dashboards, reports, and workflows that optimize updating customer details, customer tracking and project management.
 
@@ -16,13 +16,17 @@ Hi all
 
 👨‍💻 Proficient in MS Office, Google Sheets, SQL, and Python libraries like Pandas and Matplotlib.
 
+## 🏅 Achievements
+
+-   🤝 **Star Performer in JAS Qarter of DesignCafe** for creating quality metric sheets and dashboards for the stakeholders.
+-   🥈 Created seamless architectures related to Experience Center Scorecards for the company which was helpful in performing audits
 
 
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thanujak16&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
-<a href="https://github.com/Thanujak16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanujak16&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a> | 
-<a href="https://github.com/Thanujak16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanujak16&layout=compact&theme=dracula&hide_border=true" /></a> 
+<a href="https://github.com/Thanujak16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanujak16&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Thanuja's github stats" /></a> | 
+<img width=600 src="https://stats.dooboo.io/api/github-stats-advanced?login=Thanujak16" alt="hyochan github-stats"><br>
 
 
 ## 📊 GitHub Trophies:
