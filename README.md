@@ -53,6 +53,8 @@ Hi all
 <a href="#"><img width="70" height="70" img alt="Google Sheets" src="https://github.com/user-attachments/assets/62601dcc-7d5d-4655-9442-c7be9f275d64"></a>
 <a href="#"><img width="150" height="70" img alt="Google Sheets" src="https://github.com/user-attachments/assets/0409423b-f861-47e3-aaab-15de8b43b76c"></a>
 
+### Visualizations
+![image](https://github.com/user-attachments/assets/516cc78f-c022-4732-8090-8204b41f52b9)
 
 
 ### Frameworks and Libraries
