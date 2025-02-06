@@ -16,6 +16,9 @@ Hi all
 
 👨‍💻 Proficient in MS Office, Google Sheets, SQL, and Python libraries like Pandas and Matplotlib.
 
+👨‍💻 Worked on real time coffee data to generate various insights and developed a weekly automated report with conditional formatting to track monthly tag popularity and key
+revenue-driving product insights.
+
 ## 🏅 Achievements
 
 -   🤝 **Star Performer in JAS Qarter of DesignCafe** for creating quality metric sheets and dashboards for the stakeholders.
