@@ -29,7 +29,9 @@ Hi there! 👋
 
 ## 🏅 Achievements
 
-- 🤝 **Star Performer in JAS Quarter of DesignCafe** for creating quality metric sheets and dashboards for stakeholders.
+- 🤝 **Star Performer in JAS2024 Quarter of DesignCafe** for creating quality metric sheets and dashboards for stakeholders Voice of customer Architecture.
+- 🤝 **Star Performer in JFM2025 Quarter of DesignCafe** for creating quality metric sheets and dashboards for stakeholders.
+- 🤝 **I am an Entreprenuer and this is my Entreprenuership** for creating quality metric sheets and dashboards for stakeholders egual assignment of .
 - 🥈 Created seamless architectures for **Experience Center Scorecards**, which were instrumental in performing audits.
 
 ---
