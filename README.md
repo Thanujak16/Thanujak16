@@ -100,7 +100,6 @@ Hi there! 👋
 
 <p>
   <a href="https://www.linkedin.com/in/thanuja-kedila/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
-  <a href="https://wa.me/+919741366689"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
 </p>
 
 <p align="center">
