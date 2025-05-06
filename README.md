@@ -1,79 +1,110 @@
-## Profile
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Hey!+I'm+Thanuja+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Data+Analytics+%7C+Visualization+%7C+Dashboards"/>
+</p>
+
+<p align="center">
+  <img width="1080px" height="450px" src="https://github.com/user-attachments/assets/9d2dadce-edfa-40ac-8e8e-e772cffe4cfb"/>
+</p>
+
+---
 
 ## 🚀 About Me
 
-Hi all
+Hi there! 👋
 
-🎓  I am a Passionate MBA graduate with 1 year 2 month of analytics experience, specializing in Smartsheet,SQL , Excel, and Python.
+🎓 I am a passionate **MBA graduate** with **1 year and 6 months** of analytics experience, specializing in **Smartsheet**, **SQL**, **Excel**, and **Python**.
 
-👨‍💻 Proven ability to create dashboards, reports, and workflows that optimize updating customer details, customer tracking and project management.
+👨‍💻 Proven ability to create dashboards, reports, and workflows that optimize customer details, customer tracking, and project management.
 
-👨‍💻  Experienced in analyzing data and providing strategic insights to improve decision-making.
+📊 Skilled in market research, data visualization, and generating strategic insights for improved decision-making.
 
-👨‍💻 Skilled in market research and data visualization, with hands-on experience using Tableau,Power BI and Looker Studio
+📈 Hands-on experience in **Tableau**, **Power BI**, and **Looker Studio**.
 
-👨‍💻 Ready to contribute to data-driven solutions and help organizations turn raw data into actionable strategies.
+🛠️ Proficient in MS Office, Google Sheets, **SQL**, and Python libraries like **Pandas** and **Matplotlib**.
 
-👨‍💻 Proficient in MS Office, Google Sheets, SQL, and Python libraries like Pandas and Matplotlib.
+☕ Worked on real-time coffee data to generate insights and developed a **weekly automated report** with conditional formatting to track **monthly tag popularity** and revenue-driving product insights.
 
-👨‍💻 Worked on real time coffee data to generate various insights and developed a weekly automated report with conditional formatting to track monthly tag popularity and key
-revenue-driving product insights.
+---
 
 ## 🏅 Achievements
 
--   🤝 **Star Performer in JAS Qarter of DesignCafe** for creating quality metric sheets and dashboards for the stakeholders.
--   🥈 Created seamless architectures related to Experience Center Scorecards for the company which was helpful in performing audits
+- 🤝 **Star Performer in JAS2024 Quarter of DesignCafe** for creating quality metric sheets and dashboards for stakeholders Voice of customer Architecture.
+- 🤝 **Star Performer in JFM2025 Quarter of DesignCafe** for creating quality metric sheets and dashboards for stakeholders.
+- 🤝 **I am an Entreprenuer and this is my Entreprenuership** for creating quality metric sheets and dashboards for stakeholders egual assignment of .
+- 🥈 Created seamless architectures for **Experience Center Scorecards**, which were instrumental in performing audits.
 
+---
 
-## 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thanujak16&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📂 Projects
 
-## 💻 GitHub Profile Stats
-<a href="https://github.com/Thanujak16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanujak16&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Thanuja's github stats" /></a> | 
-<br>
-<img width=600 src="https://stats.dooboo.io/api/github-stats-advanced?login=Thanujak16" alt="hyochan github-stats"><br>
+| Project | Description |
+|--------|-------------|
+| [🏠 Airbnb Project](https://github.com/Thanujak16/Airbnb) | Comprehensive analysis of Airbnb data visualizing key trends |
+| [☕ Coffee Project](https://github.com/Thanujak16/Coffee-Project) | Real-time coffee data analytics and weekly reporting |
+| [📦 Amazon Sales Dashboard](https://github.com/Thanujak16/Amazon-Sales-Dashboard) | Power BI dashboard for Amazon sales monitoring |
 
+🔗 [Visit my portfolio](https://thanujak16.github.io/Thanuja-K-Data-Analyst-Portfolio/)
 
-## 📊 GitHub Trophies:
-<img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Thanujak16"><br>
+---
 
-### My Contribution Graph
-[![Thanuja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thanujak16&theme=tokyo-night&area=true)](https://github.com/Thanujak16/github-readme-activity-graph)
+## 🔥 GitHub Stats
 
-<p align="left"> 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Thanujak16&theme=neon-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanujak16&show_icons=true&theme=dracula&hide_border=true" />
+  <br/>
+  <img width="600" src="https://stats.dooboo.io/api/github-stats-advanced?login=Thanujak16" />
+  <br/>
+  <img width="720" src="https://stats.dooboo.io/api/github-trophies?login=Thanujak16"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanujak16&theme=tokyo-night&area=true"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+<p>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"/>
+</p>
+
+### Databases & Sheets
+<p>
+  <img height="50" src="https://github.com/user-attachments/assets/62601dcc-7d5d-4655-9442-c7be9f275d64"/>
+  <img height="50" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"/>
+</p>
+
+### Data Visualization Tools
+<p>
+  <img height="50" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"/>
+  <img height="50" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img height="50" src="https://img.icons8.com/color/1x/numpy.png"/>
+  <img height="50" src="https://img.icons8.com/color/1x/pandas.png"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/thanuja-kedila/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
+</p>
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Thanujak16/count.svg" />
 </p>
-
-## 🛠️ Skills
-
-### Language
-![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg).![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
-
-### Databases
-![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg).
-<a href="#"><img width="70" height="70" img alt="Smartsheet" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"></a>
-<a href="#"><img width="70" height="70" img alt="Google Sheets" src="https://github.com/user-attachments/assets/62601dcc-7d5d-4655-9442-c7be9f275d64"></a>
-<a href="#"><img width="150" height="70" img alt="Google Sheets" src="https://github.com/user-attachments/assets/0409423b-f861-47e3-aaab-15de8b43b76c"></a>
-
-### Visualizations
-<a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"></a>
-<a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"></a>
-<a href="#"><img width="150" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/a2cdbf73-ee90-4267-bd9e-cf638a6e6a02"></a>
-
-
-### Frameworks and Libraries
-<a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
-<a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/color/1x/pandas.png"></a>
-
-### Profile Summary
-![image](https://github.com/user-attachments/assets/b2152fe5-a6bb-4158-a2c6-3396251b39c8)
-
-
-
-## 🔗 You can connect with me on 
-<a href="https://www.linkedin.com/in/thanuja-kedila/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
-<a href="https://wa.me/+919741366689"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
-
-
-
