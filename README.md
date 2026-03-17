@@ -13,7 +13,7 @@
 
 Hi there! 👋
 
-🎓 I am a passionate **MBA graduate** with **1 year and 6 months** of analytics experience, specializing in **Smartsheet**, **SQL**, **Excel**, and **Python**.
+🎓 I am a passionate **MBA graduate** with **2 year and 6 months** of analytics experience, specializing in **Smartsheet**, **SQL**, **Excel**, and **Python**.
 
 👨‍💻 Proven ability to create dashboards, reports, and workflows that optimize customer details, customer tracking, and project management.
 
